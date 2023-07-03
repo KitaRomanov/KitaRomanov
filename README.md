@@ -11,17 +11,17 @@
 - ❗ Тестирование:
   ✔️ [Unittest](https://docs.python.org/3/library/unittest.html)
 - ❗ Базы данных:
-  ✔️ [PostgreSQL](https://www.postgresql.org/)
-  ✔️ [Redis](https://redis.io/)
-  ✔️ [SQLite](https://www.sqlite.org/index.html)
+  ✔️ [PostgreSQL](https://www.postgresql.org/),
+  ✔️ [Redis](https://redis.io/),
+  ✔️ [SQLite](https://www.sqlite.org/index.html),
 - ❗ Инструменты: 
-  ✔️ [Git](https://github.com/)
+  ✔️ [Git](https://github.com/),
   ✔️ [Postman](https://www.postman.com/),
   ✔️ [PyCharm](https://www.jetbrains.com/pycharm/),
-  ✔️ [Ubuntu](https://ubuntu.com/)
+  ✔️ [Ubuntu](https://ubuntu.com/),
   ✔️ [Celery](https://docs.celeryq.dev/en/stable/)
 - ❗ Контроль качества кода: 
-  ✔️ [Flake8](https://flake8.pycqa.org/en/latest/index.html)
+  ✔️ [Flake8](https://flake8.pycqa.org/en/latest/index.html),
   ✔️ [Isort](https://pypi.org/project/isort/)
 
 🌵Ознакомится с моими проектами Вы можете по ссылкам:
