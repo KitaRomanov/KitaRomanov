@@ -20,6 +20,7 @@
   ✔️ [PyCharm](https://www.jetbrains.com/pycharm/),
   ✔️ [Ubuntu](https://ubuntu.com/),
   ✔️ [Celery](https://docs.celeryq.dev/en/stable/)
+  ✔️ [Docker](https://www.docker.com/)
 - ❗ Контроль качества кода: 
   ✔️ [Flake8](https://flake8.pycqa.org/en/latest/index.html),
   ✔️ [Isort](https://pypi.org/project/isort/)
